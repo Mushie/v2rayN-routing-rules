@@ -17,7 +17,8 @@
       "geosite:tiktok",
       "geosite:meta",
       "geosite:x",
-      "geosite:line"
+      "geosite:line",
+      "geosite:category-cryptocurrency"
     ],
     "enabled": true,
     "remarks": "bwh-dc6\u4EE3\u7406\u57DF\u540D"
