@@ -18,7 +18,8 @@
       "geosite:meta",
       "geosite:x",
       "geosite:line",
-      "geosite:category-cryptocurrency"
+      "geosite:category-cryptocurrency",
+      "geosite:openai"
     ],
     "enabled": true,
     "remarks": "bwh-dc6\u4EE3\u7406\u57DF\u540D"
@@ -26,8 +27,7 @@
   {
     "outboundTag": "proxy",
     "domain": [
-      "geosite:github",
-      "geosite:google"
+      "geosite:category-porn"
     ],
     "enabled": false,
     "remarks": "\u81EA\u5B9A\u4E49\u4EE3\u7406\u57DF\u540D"
